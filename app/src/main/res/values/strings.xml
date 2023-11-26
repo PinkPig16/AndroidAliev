@@ -5,7 +5,7 @@
     <string name="text_of_the_test">Text of the test</string>
     <string name="id_text">Ввести id пользователя</string>
     <string name="id_search">Поиск</string>
-    <string name="search_result">Результат поиска:</string>
+    <string name="search_result">Результат поиска id telegram:</string>
     <string name="facebook_app_id">1403081577298290</string>
     <string name="tgURL">https://api.telegram.org/</string>
     <string name="botApi">bot6958047535:AAEc-JYDbiejuRwZ9oTdOPeR-IepBICMao4/</string>
