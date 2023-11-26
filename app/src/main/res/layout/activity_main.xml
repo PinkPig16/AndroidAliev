@@ -18,6 +18,7 @@
             android:id="@+id/et_search_field"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:background="#9A1C1C"
             android:hint="@string/id_text"
             android:inputType="text"
             android:padding="10dp"
